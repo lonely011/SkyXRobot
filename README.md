@@ -1,16 +1,7 @@
-#
+## SKY X ROBOT
 
-<p align="center">
-<a href="https://github.com/ITZ-ZAID/Telegram/network/members"><img src="https://img.shields.io/github/forks/ITZ-ZAID/Telegram?style=social" />
-<img src="https://img.shields.io/github/stars/ITZ-ZAID/Telegram?style=social" />
-<img src="https://img.shields.io/github/watchers/ITZ-ZAID/Telegram?style=social" />
-<a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://img.shields.io/github/repo-size/ITZ-ZAID/Telegram?style=social&logo=github" />
-<a href="https://perso.crans.org/besson/LICENSE.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=social&logo=github" />
-<a href="https://app.codacy.com/manual/ITZ-ZAID/Telegram/dashboard"><img src="https://img.shields.io/codacy/grade/d1726ee34f964a9a9b1ac509c6d90729?color=gold&logo=github&style=social" />
-</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Telegram&theme=dark" /></a></p>
-<p align="center"><a href="https://github.com/ITZ-ZAID/Telegram/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?style=social" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lonely011&repo=SkyXRobot&theme=dark" /></a></p>
+<p align="center"><a href="https://github.com/lonely011/SkyXRobot/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?style=social" />
 </p>
 
 ## How To Host
