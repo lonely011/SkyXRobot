@@ -1,5 +1,5 @@
 {
-  "name": "Telegram Bot",
+  "name": "SkyXRobot",
   "description": "A Telegram Management Bot Based On Telethon",
   "keywords": [
     "telegram",
@@ -46,7 +46,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
