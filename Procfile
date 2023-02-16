@@ -1,1 +1,1 @@
-worker: python3 -m Sky
+worker: python3 -m Zaid
